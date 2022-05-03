@@ -1,0 +1,8 @@
+# personal files
+workout_log.*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# caches
+.DS_STORE
